@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a7462c9-b69d-4ec3-b67f-25b001dcbacd": {
+      "ProjectGuid": "5a7462c9-b69d-4ec3-b67f-25b001dcbacd",
+      "DisplayName": "ObjRec",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

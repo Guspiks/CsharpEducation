@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Release\sinikiaerotech.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Release\sinikiaerotech.Form1.resources
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Release\sinikiaerotech.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Release\sinikiaerotech.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Release\sinikiaerotech.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Release\sinikiaerotech.exe
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Release\sinikiaerotech.pdb
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Release\Aerotech.A3200.xml
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Release\Aerotech.Common.xml
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Release\de\Aerotech.A3200.resources.dll
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Release\ja\Aerotech.A3200.resources.dll
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Release\sinikiaerotech.csproj.CopyComplete
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Release\sinikiaerotech.exe
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Release\sinikiaerotech.pdb
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Release\sinikiaerotech.exe.config
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Release\sinikiaerotech.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Debug\sinikiaerotech.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Debug\sinikiaerotech.Form1.resources
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Debug\sinikiaerotech.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Debug\sinikiaerotech.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Debug\sinikiaerotech.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Debug\sinikiaerotech.exe
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Debug\sinikiaerotech.pdb
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Debug\Aerotech.A3200.xml
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Debug\Aerotech.Common.xml
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Debug\de\Aerotech.A3200.resources.dll
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Debug\ja\Aerotech.A3200.resources.dll
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Debug\sinikiaerotech.csproj.CopyComplete
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Debug\sinikiaerotech.exe
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Debug\sinikiaerotech.pdb
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\bin\Debug\sinikiaerotech.exe.config
+C:\Users\PC\Desktop\C#\sinikiaerotech\sinikiaerotech\obj\Debug\sinikiaerotech.csproj.SuggestedBindingRedirects.cache

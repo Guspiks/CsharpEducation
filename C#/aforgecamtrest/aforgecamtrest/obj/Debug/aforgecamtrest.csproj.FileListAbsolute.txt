@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\bin\Debug\aforgecamtrest.exe
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\bin\Debug\aforgecamtrest.pdb
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\bin\Debug\AForge.Video.dll
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\bin\Debug\AForge.dll
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\obj\Debug\aforgecamtrest.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\obj\Debug\aforgecamtrest.Form1.resources
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\obj\Debug\aforgecamtrest.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\obj\Debug\aforgecamtrest.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\obj\Debug\aforgecamtrest.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\obj\Debug\aforgecamtrest.csproj.CopyComplete
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\obj\Debug\aforgecamtrest.exe
+C:\Users\PC\Desktop\C#\aforgecamtrest\aforgecamtrest\obj\Debug\aforgecamtrest.pdb

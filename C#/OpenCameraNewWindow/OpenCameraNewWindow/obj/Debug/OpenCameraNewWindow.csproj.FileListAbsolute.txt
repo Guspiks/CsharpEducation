@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\bin\Debug\OpenCameraNewWindow.exe
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\bin\Debug\OpenCameraNewWindow.pdb
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\obj\Debug\OpenCameraNewWindow.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\obj\Debug\OpenCameraNewWindow.Form1.resources
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\obj\Debug\OpenCameraNewWindow.Form2.resources
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\obj\Debug\OpenCameraNewWindow.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\obj\Debug\OpenCameraNewWindow.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\obj\Debug\OpenCameraNewWindow.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\obj\Debug\OpenCameraNewWindow.exe
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\obj\Debug\OpenCameraNewWindow.pdb
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\bin\Debug\Basler.Pylon.dll
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\bin\Debug\Basler.Pylon.xml
+C:\Users\PC\Desktop\C#\OpenCameraNewWindow\OpenCameraNewWindow\obj\Debug\OpenCameraNewWindow.csproj.CopyComplete

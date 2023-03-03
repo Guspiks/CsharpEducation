@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\bin\Debug\pozycjonowanie1.exe
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\bin\Debug\pozycjonowanie1.pdb
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\bin\Debug\Aerotech.A3200.xml
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\bin\Debug\Aerotech.Common.xml
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\bin\Debug\de\Aerotech.A3200.resources.dll
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\bin\Debug\ja\Aerotech.A3200.resources.dll
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\obj\Debug\pozycjonowanie1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\obj\Debug\pozycjonowanie1.Form1.resources
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\obj\Debug\pozycjonowanie1.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\obj\Debug\pozycjonowanie1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\obj\Debug\pozycjonowanie1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\obj\Debug\pozycjonowanie1.csproj.CopyComplete
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\obj\Debug\pozycjonowanie1.exe
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\obj\Debug\pozycjonowanie1.pdb
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\bin\Debug\pozycjonowanie1.exe.config
+C:\Users\PC\Desktop\C#\pozycjonowanie1\pozycjonowanie1\obj\Debug\pozycjonowanie1.csproj.SuggestedBindingRedirects.cache

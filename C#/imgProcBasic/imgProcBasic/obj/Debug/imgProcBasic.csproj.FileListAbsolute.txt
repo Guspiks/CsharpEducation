@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\bin\Debug\imgProcBasic.exe
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\bin\Debug\imgProcBasic.pdb
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\bin\Debug\OpenCvSharp.dll
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\obj\Debug\imgProcBasic.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\obj\Debug\imgProcBasic.Form1.resources
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\obj\Debug\imgProcBasic.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\obj\Debug\imgProcBasic.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\obj\Debug\imgProcBasic.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\obj\Debug\imgProcBasic.csproj.CopyComplete
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\obj\Debug\imgProcBasic.exe
+C:\Users\PC\Desktop\C#\imgProcBasic\imgProcBasic\obj\Debug\imgProcBasic.pdb

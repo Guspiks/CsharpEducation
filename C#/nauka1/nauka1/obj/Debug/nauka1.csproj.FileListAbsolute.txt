@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\C#\nauka1\nauka1\bin\Debug\nauka1.exe.config
+C:\Users\PC\Desktop\C#\nauka1\nauka1\bin\Debug\nauka1.exe
+C:\Users\PC\Desktop\C#\nauka1\nauka1\bin\Debug\nauka1.pdb
+C:\Users\PC\Desktop\C#\nauka1\nauka1\obj\Debug\nauka1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\nauka1\nauka1\obj\Debug\nauka1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\C#\nauka1\nauka1\obj\Debug\nauka1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\nauka1\nauka1\obj\Debug\nauka1.exe
+C:\Users\PC\Desktop\C#\nauka1\nauka1\obj\Debug\nauka1.pdb

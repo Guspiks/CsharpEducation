@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a75f9cd-9024-498f-b13c-fd092483c848": {
+      "ProjectGuid": "2a75f9cd-9024-498f-b13c-fd092483c848",
+      "DisplayName": "OpenCameraBasler",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

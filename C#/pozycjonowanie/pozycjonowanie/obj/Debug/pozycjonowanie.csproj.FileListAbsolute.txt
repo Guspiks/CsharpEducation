@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\C#\pozycjonowanie\pozycjonowanie\bin\Debug\pozycjonowanie.exe
+C:\Users\PC\Desktop\C#\pozycjonowanie\pozycjonowanie\bin\Debug\pozycjonowanie.pdb
+C:\Users\PC\Desktop\C#\pozycjonowanie\pozycjonowanie\obj\Debug\pozycjonowanie.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\pozycjonowanie\pozycjonowanie\obj\Debug\pozycjonowanie.Form1.resources
+C:\Users\PC\Desktop\C#\pozycjonowanie\pozycjonowanie\obj\Debug\pozycjonowanie.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\pozycjonowanie\pozycjonowanie\obj\Debug\pozycjonowanie.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\pozycjonowanie\pozycjonowanie\obj\Debug\pozycjonowanie.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\pozycjonowanie\pozycjonowanie\obj\Debug\pozycjonowanie.exe
+C:\Users\PC\Desktop\C#\pozycjonowanie\pozycjonowanie\obj\Debug\pozycjonowanie.pdb

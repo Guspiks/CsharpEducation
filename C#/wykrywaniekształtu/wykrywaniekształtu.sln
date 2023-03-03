@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.33027.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wykrywaniekształtu", "wykrywaniekształtu\wykrywaniekształtu.csproj", "{E50C8C51-15BC-45E4-84B6-BBD70B2109FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E50C8C51-15BC-45E4-84B6-BBD70B2109FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50C8C51-15BC-45E4-84B6-BBD70B2109FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50C8C51-15BC-45E4-84B6-BBD70B2109FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50C8C51-15BC-45E4-84B6-BBD70B2109FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E72E7452-16DC-44C0-89B5-FA148EC62832}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\bin\Release\terazzadiała.exe.manifest
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\bin\Release\terazzadiała.application
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\bin\Release\terazzadiała.exe
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\bin\Release\terazzadiała.pdb
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\bin\Release\Basler.Pylon.dll
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\bin\Release\Basler.Pylon.xml
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.Form1.resources
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.Properties.Resources.resources
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.TrustInfo.xml
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.exe.manifest
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.application
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.csproj.CopyComplete
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.exe
+C:\Users\PC\Desktop\C#\terazzadiała\terazzadiała\obj\Release\terazzadiała.pdb
